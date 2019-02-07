@@ -1,0 +1,22 @@
+<div *ngIf="!employee">Loading...</div>
+
+<div
+  *ngIf="employee"
+  class="employee"
+>
+  <div class="row">
+    <div class="col-auto mr-auto">
+      <h1>{{employee.firstName}} {{employee.lastName}}</h1>
+      <div>{{employee.email}}</div>
+      <div>{{employee.jobTitle}}</div>
+      <div>Employed since {{employee.joinedDate | date:'longDate'}}</div>
+    </div>
+    <div class="col-auto">
+      <img
+        class="avatar"
+        src="{{employee.avatar}}"
+        alt="Employee avatar"
+      >
+    </div>
+  </div>
+</div>

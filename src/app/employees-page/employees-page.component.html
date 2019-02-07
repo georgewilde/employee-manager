@@ -1,0 +1,12 @@
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-5">
+      <app-employee-list
+        [employees]="employees$ | async"
+      ></app-employee-list>
+    </div>
+    <div class="col-md-5">
+      <app-add-employee></app-add-employee>
+    </div>
+  </div>
+</div>

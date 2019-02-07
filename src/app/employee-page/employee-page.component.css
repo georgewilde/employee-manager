@@ -1,0 +1,11 @@
+.employee {
+  margin: 15px 0;
+  padding: 15px;
+  background-color: #4b20b7;
+  border-radius: 5px;
+  color: #FFFFFF;
+}
+
+.avatar {
+  border-radius: 50%;
+}

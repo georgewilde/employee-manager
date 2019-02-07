@@ -1,0 +1,13 @@
+<div class="container-fluid">
+  <a
+    class="btn btn-primary"
+    routerLink="/employees"
+    href="javascript:void(0)"
+  >
+    Back
+  </a>
+
+  <app-employee-detail
+    [employee]="employee$ | async"
+  ></app-employee-detail>
+</div>

@@ -1,0 +1,13 @@
+.header {
+  padding: 30px;
+  color: #FFF;
+  background-color: #da1c6d;
+  margin-bottom: 15px;
+}
+
+.footer {
+  margin-top: 15px;
+  padding: 30px;
+  color: #dddddd;
+  background-color: #1c88e0;
+}

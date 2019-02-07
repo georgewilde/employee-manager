@@ -1,0 +1,22 @@
+.item {
+  padding: 0;
+}
+
+.item__link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+.item__link:hover {
+  background-color: #16a8b5;
+  color: #FFFFFF;
+}
+
+.item__image {
+  max-height: 50px;
+  border-radius: 50%;
+  margin-right: 30px;
+}

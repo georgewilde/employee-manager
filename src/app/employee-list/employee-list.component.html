@@ -1,0 +1,23 @@
+<ul class="list-group">
+  <li
+    *ngFor="let employee of employees"
+    class="list-group-item item"
+  >
+    <a
+      routerLink="/employee/{{employee.id}}"
+      href="javascript: void(0)"
+      class="item__link"
+    >
+      <div>
+        <img
+          src="{{employee.avatar}}"
+          alt="User avatar"
+          class="item__image"
+        >
+      </div>
+      <div>
+        {{employee.firstName}} {{employee.lastName}}
+      </div>
+    </a>
+  </li>
+</ul>
