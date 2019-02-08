@@ -8,7 +8,7 @@ import { Employee } from './employee.model';
 })
 export class EmployeeService {
 
-  private baseUrl = 'http://5c55c91409580600147c4d9d.mockapi.io/api/users';
+  private baseUrl = 'https://my-json-server.typicode.com/georgewilde/employee-manager/employees';
 
   constructor(private http: HttpClient) {
   }

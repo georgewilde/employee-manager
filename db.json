@@ -1,0 +1,204 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "firstName": "Larue",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sta1ex/128.jpg",
+      "lastName": "Stanton",
+      "email": "Glen40@hotmail.com",
+      "jobTitle": "Dynamic Solutions Designer",
+      "joinedDate": "2018-10-28T06:34:53.732Z",
+      "jobType": "Agent"
+    },
+    {
+      "id": "2",
+      "firstName": "Lucius",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/adityasutomo/128.jpg",
+      "lastName": "Schuppe",
+      "email": "Kevin.Borer50@hotmail.com",
+      "jobTitle": "Investor Implementation Coordinator",
+      "joinedDate": "2018-04-28T12:24:28.578Z",
+      "jobType": "Assistant"
+    },
+    {
+      "id": "3",
+      "firstName": "Amanda",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/scott_riley/128.jpg",
+      "lastName": "Ernser",
+      "email": "Clemmie_Bruen84@hotmail.com",
+      "jobTitle": "Regional Implementation Consultant",
+      "joinedDate": "2018-09-19T03:01:49.700Z",
+      "jobType": "Designer"
+    },
+    {
+      "id": "4",
+      "firstName": "Elise",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ffbel/128.jpg",
+      "lastName": "Hayes",
+      "email": "Ali_Baumbach18@gmail.com",
+      "jobTitle": "Human Web Analyst",
+      "joinedDate": "2018-06-08T21:56:13.982Z",
+      "jobType": "Coordinator"
+    },
+    {
+      "id": "5",
+      "firstName": "Lucy",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/arpitnj/128.jpg",
+      "lastName": "Jakubowski",
+      "email": "Savannah15@hotmail.com",
+      "jobTitle": "District Response Administrator",
+      "joinedDate": "2018-06-28T10:37:56.718Z",
+      "jobType": "Liaison"
+    },
+    {
+      "id": "6",
+      "firstName": "Mario",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pehamondello/128.jpg",
+      "lastName": "Jaskolski",
+      "email": "Simone.Swaniawski7@hotmail.com",
+      "jobTitle": "Dynamic Division Designer",
+      "joinedDate": "2018-08-12T12:40:13.194Z",
+      "jobType": "Engineer"
+    },
+    {
+      "id": "7",
+      "firstName": "Oceane",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/karalek/128.jpg",
+      "lastName": "McLaughlin",
+      "email": "Royal34@yahoo.com",
+      "jobTitle": "Senior Creative Assistant",
+      "joinedDate": "2018-03-19T00:58:55.340Z",
+      "jobType": "Representative"
+    },
+    {
+      "id": "8",
+      "firstName": "Eula",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/juaumlol/128.jpg",
+      "lastName": "Heaney",
+      "email": "Germaine.Lynch@yahoo.com",
+      "jobTitle": "National Factors Supervisor",
+      "joinedDate": "2018-03-02T20:52:34.954Z",
+      "jobType": "Agent"
+    },
+    {
+      "id": "9",
+      "firstName": "Queenie",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/osmanince/128.jpg",
+      "lastName": "Macejkovic",
+      "email": "Mathew.Hayes69@gmail.com",
+      "jobTitle": "Investor Solutions Representative",
+      "joinedDate": "2018-04-05T04:12:32.704Z",
+      "jobType": "Planner"
+    },
+    {
+      "id": "10",
+      "firstName": "Benjamin",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sawrb/128.jpg",
+      "lastName": "Tillman",
+      "email": "Alicia_Schiller65@gmail.com",
+      "jobTitle": "Chief Security Consultant",
+      "joinedDate": "2018-10-12T13:53:12.072Z",
+      "jobType": "Representative"
+    },
+    {
+      "id": "11",
+      "firstName": "Marisa",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mizko/128.jpg",
+      "lastName": "Labadie",
+      "email": "Melisa_Franecki@hotmail.com",
+      "jobTitle": "Regional Program Director",
+      "joinedDate": "2018-05-29T02:11:33.787Z",
+      "jobType": "Representative"
+    },
+    {
+      "id": "12",
+      "firstName": "Anne",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/sreejithexp/128.jpg",
+      "lastName": "Volkman",
+      "email": "Mina_Fisher@yahoo.com",
+      "jobTitle": "Future Web Facilitator",
+      "joinedDate": "2018-12-23T15:04:04.345Z",
+      "jobType": "Developer"
+    },
+    {
+      "id": "13",
+      "firstName": "Judy",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrebay007/128.jpg",
+      "lastName": "Hoppe",
+      "email": "Paula.Grimes13@hotmail.com",
+      "jobTitle": "Internal Web Specialist",
+      "joinedDate": "2018-12-01T16:40:33.476Z",
+      "jobType": "Executive"
+    },
+    {
+      "id": "14",
+      "firstName": "Thaddeus",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/pechkinator/128.jpg",
+      "lastName": "Feeney",
+      "email": "Gregory71@hotmail.com",
+      "jobTitle": "Direct Solutions Developer",
+      "joinedDate": "2018-12-02T07:36:25.898Z",
+      "jobType": "Strategist"
+    },
+    {
+      "id": "15",
+      "firstName": "Mustafa",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/ganserene/128.jpg",
+      "lastName": "Kris",
+      "email": "Annabel_Howe97@yahoo.com",
+      "jobTitle": "Product Data Designer",
+      "joinedDate": "2018-03-04T21:27:23.969Z",
+      "jobType": "Representative"
+    },
+    {
+      "id": "16",
+      "firstName": "Lera",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/rdsaunders/128.jpg",
+      "lastName": "Grant",
+      "email": "Deonte29@gmail.com",
+      "jobTitle": "Direct Integration Producer",
+      "joinedDate": "2018-08-09T01:27:13.465Z",
+      "jobType": "Liaison"
+    },
+    {
+      "id": "17",
+      "firstName": "Josephine",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/jmillspaysbills/128.jpg",
+      "lastName": "Rempel",
+      "email": "Israel12@gmail.com",
+      "jobTitle": "Dynamic Division Specialist",
+      "joinedDate": "2018-09-10T04:59:28.937Z",
+      "jobType": "Strategist"
+    },
+    {
+      "id": "18",
+      "firstName": "Reece",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/anthonysukow/128.jpg",
+      "lastName": "Moen",
+      "email": "Harmony.Kunze18@yahoo.com",
+      "jobTitle": "Forward Identity Manager",
+      "joinedDate": "2018-05-27T12:25:57.188Z",
+      "jobType": "Planner"
+    },
+    {
+      "id": "19",
+      "firstName": "Reina",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/benjamin_knight/128.jpg",
+      "lastName": "Koss",
+      "email": "Cary_Harvey@gmail.com",
+      "jobTitle": "Product Infrastructure Specialist",
+      "joinedDate": "2018-03-21T01:22:23.960Z",
+      "jobType": "Liaison"
+    },
+    {
+      "id": "20",
+      "firstName": "Dedrick",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hugocornejo/128.jpg",
+      "lastName": "Hauck",
+      "email": "Christopher_King16@yahoo.com",
+      "jobTitle": "Corporate Integration Consultant",
+      "joinedDate": "2018-03-23T19:05:16.499Z",
+      "jobType": "Director"
+    }
+  ]
+}
