@@ -1,6 +1,10 @@
-# EmployeeViewer
+# Employee Viewer
+This project is part of my "Angular Fundamentals" series of tutorials and talks.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+Take a look at the [hosted version](https://unruffled-agnesi-158e07.netlify.com/) of this site built off the "master" branch to see what it looks like when running.
+
+I try to write all my talks up as blog posts which can be found on [my website](https://www.wildecreations.co.uk). Alternatively if you'd like to book me in to give a presentation, just send me an email to [george@wildecreations.co.uk](mailto:george@wildecreations.co.uk). 
+
 
 ## Development server
 
