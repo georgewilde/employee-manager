@@ -1,4 +1,5 @@
-# Employee Viewer
+# Employee Manager
+## Angular Fundamentals Tutorial Series
 This project is part of my "Angular Fundamentals" series of tutorials and talks.
 
 Take a look at the [hosted version](https://unruffled-agnesi-158e07.netlify.com/) of this site built off the "master" branch to see what it looks like when running.
